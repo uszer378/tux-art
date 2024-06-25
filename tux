@@ -1,1 +1,1 @@
-cat ~/tuxascii
+head -n 20 ~/.tuxascii && tail -n 10 ~/.tuxascii
