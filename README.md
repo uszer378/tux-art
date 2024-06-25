@@ -2,7 +2,7 @@ So the file tux is a linux script. (a linux script is any file that it is when i
 
 Tux source code
 
-cat ~/tuxascii
+head -n 20 ~/.tuxascii && tail -n 10 ~/.tuxascii
 
 Ya thats it
 
