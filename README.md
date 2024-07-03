@@ -7,3 +7,5 @@ head -n 20 ~/.tuxascii && tail -n 10 ~/.tuxascii
 Ya thats it
 
 And the tuxascii file is just a ascii pic of tux
+
+(also copy .tuxascii to /root if u want tux to have / acssce)
