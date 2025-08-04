@@ -4,9 +4,9 @@ instructions
 3 - cd tux-art
 4 - chmod +x tux
 5 (optional) - sudo -s cp tux /bin
-===============================================
-how to use 
 
+how to use 
+==========
 tux = shows picture of tux
 
 tux bsd = shows freebsd / bsd mascot
