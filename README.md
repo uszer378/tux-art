@@ -1,3 +1,8 @@
+what this is
+============
+
+this bash script shows the mascots of unix opeating sytems like linux , mac os , and bsd operating systems
+
 instructions
 ============
 1 - cd ~
