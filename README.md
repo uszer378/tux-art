@@ -1,4 +1,5 @@
 instructions
+============
 1 - cd ~
 2 - git clone https://github.com/uszer378/tux-art
 3 - cd tux-art
