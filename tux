@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# This script checks the first argument to decide which file to display.
-# $1 is the first argument passed to the script.
-
-# Use an 'if' statement to check the value of $1
 if [ "$1" == "mac" ]; then
     # If the first argument is exactly "mac", run this command
     cat ~/tux-art/.m
