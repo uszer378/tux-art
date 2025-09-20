@@ -1,1 +1,19 @@
-head -n 20 ~/tux-art/.tuxascii && tail -n 10 ~/tux-art/.tuxascii
+#!/bin/bash
+
+# This script checks the first argument to decide which file to display.
+# $1 is the first argument passed to the script.
+
+# Use an 'if' statement to check the value of $1
+if [ "$1" == "mac" ]; then
+    # If the first argument is exactly "mac", run this command
+    cat ~/tux-art/.m
+elif [ "$1" == "bsd" ]; then
+    # If the first argument is exactly "bsd", run this command
+    cat ~/tux-art/.b
+elif [ "$1" == "open-bsd" ]; then
+    # If the first argument is exactly "open-bsd", run this command
+    cat ~/tux-art/.o
+else
+    # If the first argument is anything else, run this command
+    cat ~/tux-art/.tuxascii
+fi
